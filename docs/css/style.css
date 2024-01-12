@@ -9977,7 +9977,7 @@ h6,
   list-style-type: none;
 }
 
-.border.border-primary.video-textBox {
+.video-textBox {
   width: 60%;
   margin: 0px auto;
   margin-bottom: 50px;
@@ -9988,4 +9988,7 @@ h6,
   margin-left: 0;
   margin-right: 0;
   justify-content: center;
+}
+.marginBottomDiv{ 
+  margin-bottom: 50px;
 }

@@ -9982,3 +9982,10 @@ h6,
   margin: 0px auto;
   margin-bottom: 50px;
 }
+
+.videoArea {
+  flex-wrap: nowrap;
+  margin-left: 0;
+  margin-right: 0;
+  justify-content: center;
+}
